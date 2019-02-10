@@ -10,21 +10,21 @@
 		0885EF5C930B49DBC42E22DB /* Pods_JobFinder.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6EC6865D4E4BCB3644CF90DE /* Pods_JobFinder.framework */; };
 		1B84EAE3CC79939F6278923D /* Pods_JobFinderTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1613435034F2BB73745E278C /* Pods_JobFinderTests.framework */; };
 		2569903D3E4C46E490BB0E23 /* Pods_JobFinderUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5C64257BFBAF8356E540A8B /* Pods_JobFinderUITests.framework */; };
-		FB5C1418220FB6E000B8DADE /* PaginationParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1408220FB6DF00B8DADE /* PaginationParamsUpdater.swift */; };
-		FB5C141A220FB6E000B8DADE /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C140A220FB6DF00B8DADE /* SelectionViewController.swift */; };
-		FB5C141C220FB6E000B8DADE /* GlobalConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C140C220FB6DF00B8DADE /* GlobalConstants.swift */; };
 		FB5C141D220FB6E000B8DADE /* JobModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C140D220FB6DF00B8DADE /* JobModel.swift */; };
 		FB5C141E220FB6E000B8DADE /* ProviderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C140E220FB6DF00B8DADE /* ProviderModel.swift */; };
-		FB5C141F220FB6E000B8DADE /* FilterFinishDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C140F220FB6E000B8DADE /* FilterFinishDelegate.swift */; };
-		FB5C1420220FB6E000B8DADE /* JobDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1410220FB6E000B8DADE /* JobDetailsViewController.swift */; };
-		FB5C1421220FB6E000B8DADE /* JobsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1411220FB6E000B8DADE /* JobsTableViewController.swift */; };
-		FB5C1422220FB6E000B8DADE /* SearchParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1412220FB6E000B8DADE /* SearchParamsUpdater.swift */; };
 		FB5C1423220FB6E000B8DADE /* JobTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1414220FB6E000B8DADE /* JobTableViewCell.swift */; };
-		FB5C1424220FB6E000B8DADE /* PlaceParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1415220FB6E000B8DADE /* PlaceParamsUpdater.swift */; };
-		FB5C1425220FB6E000B8DADE /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1416220FB6E000B8DADE /* WebViewController.swift */; };
-		FB5C1426220FB6E000B8DADE /* LocationParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5C1417220FB6E000B8DADE /* LocationParamsUpdater.swift */; };
+		FBDF9C06220FC08A00EEED9F /* JobsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C01220FC08300EEED9F /* JobsTableViewController.swift */; };
+		FBDF9C07220FC08A00EEED9F /* JobDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C02220FC08700EEED9F /* JobDetailsViewController.swift */; };
+		FBDF9C08220FC08A00EEED9F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C03220FC08900EEED9F /* ViewController.swift */; };
+		FBDF9C09220FC08A00EEED9F /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C04220FC08900EEED9F /* WebViewController.swift */; };
+		FBDF9C0A220FC08A00EEED9F /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C05220FC08A00EEED9F /* SelectionViewController.swift */; };
+		FBDF9C11220FC0B400EEED9F /* GlobalConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C0B220FC0B300EEED9F /* GlobalConstants.swift */; };
+		FBDF9C12220FC0B400EEED9F /* PlaceParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C0C220FC0B300EEED9F /* PlaceParamsUpdater.swift */; };
+		FBDF9C13220FC0B400EEED9F /* PaginationParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C0D220FC0B300EEED9F /* PaginationParamsUpdater.swift */; };
+		FBDF9C14220FC0B400EEED9F /* FilterFinishDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C0E220FC0B300EEED9F /* FilterFinishDelegate.swift */; };
+		FBDF9C15220FC0B400EEED9F /* SearchParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C0F220FC0B300EEED9F /* SearchParamsUpdater.swift */; };
+		FBDF9C16220FC0B400EEED9F /* LocationParamsUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDF9C10220FC0B400EEED9F /* LocationParamsUpdater.swift */; };
 		FBE446D2220FAF2400721612 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE446D1220FAF2400721612 /* AppDelegate.swift */; };
-		FBE446D4220FAF2400721612 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE446D3220FAF2400721612 /* ViewController.swift */; };
 		FBE446D7220FAF2400721612 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBE446D5220FAF2400721612 /* Main.storyboard */; };
 		FBE446D9220FAF3300721612 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBE446D8220FAF3300721612 /* Assets.xcassets */; };
 		FBE446DC220FAF3300721612 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBE446DA220FAF3300721612 /* LaunchScreen.storyboard */; };
@@ -59,22 +59,22 @@
 		B0E6FBD9C442D7DD72382CA2 /* Pods-JobFinderTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JobFinderTests.release.xcconfig"; path = "Target Support Files/Pods-JobFinderTests/Pods-JobFinderTests.release.xcconfig"; sourceTree = "<group>"; };
 		B634B92432BD709DE8D30DD3 /* Pods-JobFinderUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JobFinderUITests.debug.xcconfig"; path = "Target Support Files/Pods-JobFinderUITests/Pods-JobFinderUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E5C64257BFBAF8356E540A8B /* Pods_JobFinderUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JobFinderUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FB5C1408220FB6DF00B8DADE /* PaginationParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaginationParamsUpdater.swift; sourceTree = "<group>"; };
-		FB5C140A220FB6DF00B8DADE /* SelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectionViewController.swift; sourceTree = "<group>"; };
-		FB5C140C220FB6DF00B8DADE /* GlobalConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalConstants.swift; sourceTree = "<group>"; };
 		FB5C140D220FB6DF00B8DADE /* JobModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JobModel.swift; sourceTree = "<group>"; };
 		FB5C140E220FB6DF00B8DADE /* ProviderModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProviderModel.swift; sourceTree = "<group>"; };
-		FB5C140F220FB6E000B8DADE /* FilterFinishDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterFinishDelegate.swift; sourceTree = "<group>"; };
-		FB5C1410220FB6E000B8DADE /* JobDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JobDetailsViewController.swift; sourceTree = "<group>"; };
-		FB5C1411220FB6E000B8DADE /* JobsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JobsTableViewController.swift; sourceTree = "<group>"; };
-		FB5C1412220FB6E000B8DADE /* SearchParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchParamsUpdater.swift; sourceTree = "<group>"; };
 		FB5C1414220FB6E000B8DADE /* JobTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JobTableViewCell.swift; sourceTree = "<group>"; };
-		FB5C1415220FB6E000B8DADE /* PlaceParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceParamsUpdater.swift; sourceTree = "<group>"; };
-		FB5C1416220FB6E000B8DADE /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
-		FB5C1417220FB6E000B8DADE /* LocationParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationParamsUpdater.swift; sourceTree = "<group>"; };
+		FBDF9C01220FC08300EEED9F /* JobsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JobsTableViewController.swift; path = JobFinder/JobsTableViewController.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C02220FC08700EEED9F /* JobDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JobDetailsViewController.swift; path = JobFinder/JobDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C03220FC08900EEED9F /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = JobFinder/ViewController.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C04220FC08900EEED9F /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebViewController.swift; path = JobFinder/WebViewController.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C05220FC08A00EEED9F /* SelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SelectionViewController.swift; path = JobFinder/SelectionViewController.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C0B220FC0B300EEED9F /* GlobalConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GlobalConstants.swift; path = JobFinder/GlobalConstants.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C0C220FC0B300EEED9F /* PlaceParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlaceParamsUpdater.swift; path = JobFinder/PlaceParamsUpdater.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C0D220FC0B300EEED9F /* PaginationParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaginationParamsUpdater.swift; path = JobFinder/PaginationParamsUpdater.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C0E220FC0B300EEED9F /* FilterFinishDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FilterFinishDelegate.swift; path = JobFinder/FilterFinishDelegate.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C0F220FC0B300EEED9F /* SearchParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchParamsUpdater.swift; path = JobFinder/SearchParamsUpdater.swift; sourceTree = SOURCE_ROOT; };
+		FBDF9C10220FC0B400EEED9F /* LocationParamsUpdater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocationParamsUpdater.swift; path = JobFinder/LocationParamsUpdater.swift; sourceTree = SOURCE_ROOT; };
 		FBE446CE220FAF2400721612 /* JobFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JobFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBE446D1220FAF2400721612 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FBE446D3220FAF2400721612 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FBE446D6220FAF2400721612 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FBE446D8220FAF3300721612 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBE446DB220FAF3300721612 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -149,12 +149,12 @@
 		FB5C1427220FB6F800B8DADE /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				FB5C140F220FB6E000B8DADE /* FilterFinishDelegate.swift */,
-				FB5C140C220FB6DF00B8DADE /* GlobalConstants.swift */,
-				FB5C1417220FB6E000B8DADE /* LocationParamsUpdater.swift */,
-				FB5C1408220FB6DF00B8DADE /* PaginationParamsUpdater.swift */,
-				FB5C1415220FB6E000B8DADE /* PlaceParamsUpdater.swift */,
-				FB5C1412220FB6E000B8DADE /* SearchParamsUpdater.swift */,
+				FBDF9C0E220FC0B300EEED9F /* FilterFinishDelegate.swift */,
+				FBDF9C0B220FC0B300EEED9F /* GlobalConstants.swift */,
+				FBDF9C10220FC0B400EEED9F /* LocationParamsUpdater.swift */,
+				FBDF9C0D220FC0B300EEED9F /* PaginationParamsUpdater.swift */,
+				FBDF9C0C220FC0B300EEED9F /* PlaceParamsUpdater.swift */,
+				FBDF9C0F220FC0B300EEED9F /* SearchParamsUpdater.swift */,
 			);
 			name = Utilities;
 			path = CustomViews;
@@ -172,11 +172,11 @@
 		FB5C1429220FB72C00B8DADE /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				FB5C1410220FB6E000B8DADE /* JobDetailsViewController.swift */,
-				FB5C1411220FB6E000B8DADE /* JobsTableViewController.swift */,
-				FB5C140A220FB6DF00B8DADE /* SelectionViewController.swift */,
-				FB5C1416220FB6E000B8DADE /* WebViewController.swift */,
-				FBE446D3220FAF2400721612 /* ViewController.swift */,
+				FBDF9C02220FC08700EEED9F /* JobDetailsViewController.swift */,
+				FBDF9C01220FC08300EEED9F /* JobsTableViewController.swift */,
+				FBDF9C05220FC08A00EEED9F /* SelectionViewController.swift */,
+				FBDF9C03220FC08900EEED9F /* ViewController.swift */,
+				FBDF9C04220FC08900EEED9F /* WebViewController.swift */,
 			);
 			name = ViewControllers;
 			path = CustomViews;
@@ -207,10 +207,10 @@
 		FBE446D0220FAF2400721612 /* JobFinder */ = {
 			isa = PBXGroup;
 			children = (
-				FB5C1429220FB72C00B8DADE /* ViewControllers */,
-				FB5C1428220FB71D00B8DADE /* Models */,
-				FB5C1427220FB6F800B8DADE /* Utilities */,
 				FB5C1413220FB6E000B8DADE /* CustomViews */,
+				FB5C1427220FB6F800B8DADE /* Utilities */,
+				FB5C1428220FB71D00B8DADE /* Models */,
+				FB5C1429220FB72C00B8DADE /* ViewControllers */,
 				FBE446D1220FAF2400721612 /* AppDelegate.swift */,
 				FBE446D5220FAF2400721612 /* Main.storyboard */,
 				FBE446D8220FAF3300721612 /* Assets.xcassets */,
@@ -493,21 +493,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB5C1424220FB6E000B8DADE /* PlaceParamsUpdater.swift in Sources */,
-				FB5C141A220FB6E000B8DADE /* SelectionViewController.swift in Sources */,
-				FB5C141F220FB6E000B8DADE /* FilterFinishDelegate.swift in Sources */,
+				FBDF9C09220FC08A00EEED9F /* WebViewController.swift in Sources */,
+				FBDF9C07220FC08A00EEED9F /* JobDetailsViewController.swift in Sources */,
+				FBDF9C14220FC0B400EEED9F /* FilterFinishDelegate.swift in Sources */,
+				FBDF9C12220FC0B400EEED9F /* PlaceParamsUpdater.swift in Sources */,
+				FBDF9C0A220FC08A00EEED9F /* SelectionViewController.swift in Sources */,
+				FBDF9C15220FC0B400EEED9F /* SearchParamsUpdater.swift in Sources */,
 				FB5C1423220FB6E000B8DADE /* JobTableViewCell.swift in Sources */,
-				FBE446D4220FAF2400721612 /* ViewController.swift in Sources */,
+				FBDF9C16220FC0B400EEED9F /* LocationParamsUpdater.swift in Sources */,
 				FB5C141E220FB6E000B8DADE /* ProviderModel.swift in Sources */,
-				FB5C1421220FB6E000B8DADE /* JobsTableViewController.swift in Sources */,
-				FB5C1426220FB6E000B8DADE /* LocationParamsUpdater.swift in Sources */,
-				FB5C1418220FB6E000B8DADE /* PaginationParamsUpdater.swift in Sources */,
-				FB5C141C220FB6E000B8DADE /* GlobalConstants.swift in Sources */,
 				FB5C141D220FB6E000B8DADE /* JobModel.swift in Sources */,
-				FB5C1420220FB6E000B8DADE /* JobDetailsViewController.swift in Sources */,
-				FB5C1422220FB6E000B8DADE /* SearchParamsUpdater.swift in Sources */,
+				FBDF9C08220FC08A00EEED9F /* ViewController.swift in Sources */,
+				FBDF9C13220FC0B400EEED9F /* PaginationParamsUpdater.swift in Sources */,
+				FBDF9C06220FC08A00EEED9F /* JobsTableViewController.swift in Sources */,
+				FBDF9C11220FC0B400EEED9F /* GlobalConstants.swift in Sources */,
 				FBE446D2220FAF2400721612 /* AppDelegate.swift in Sources */,
-				FB5C1425220FB6E000B8DADE /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
