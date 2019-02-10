@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.0.0.beta.1)
+  - GoogleMaps (3.0.2):
+    - GoogleMaps/Maps (= 3.0.2)
+  - GoogleMaps/Base (3.0.2)
+  - GoogleMaps/Maps (3.0.2):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.2):
+    - GoogleMaps/Base (= 3.0.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SelectionList (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0.beta.1)
+  - GoogleMaps
+  - GooglePlaces
+  - SDWebImage (~> 3.8)
+  - SelectionList
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - SDWebImage
+    - SelectionList
+
+SPEC CHECKSUMS:
+  Alamofire: 2ef6d6c984c5d21c366e9b41a9ae7dfee2b67a44
+  GoogleMaps: 941cd655e009b4d8e42df19a3d749bc3fccec973
+  GooglePlaces: c086e0055dc5f0177d7c9d65fc77a1734f9a4825
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SelectionList: 4f4c720baf48f3d19c28d0622a43cbef237bb984
+
+PODFILE CHECKSUM: 4dbddddebd84a6439fb439fe31025c95745316fd
+
+COCOAPODS: 1.6.0
